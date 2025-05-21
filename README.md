@@ -11,6 +11,7 @@ Este projeto consiste em um dashboard interativo desenvolvido no Power BI, com o
 ![Painel 2](https://github.com/user-attachments/assets/06dd8070-2e4f-42f2-becc-ecf076c5b139)
 
 🛠️ Problemas Resolvidos com os Dashboards
+
 🔸 Dificuldade no Controle de Despesas
 Sem um controle visual, era difícil saber onde o dinheiro estava sendo gasto e quais eram os maiores custos do negócio.
 ✅ Solução: O dashboard de despesas organiza os gastos por categoria, data e tipo de produto, além de mostrar claramente os custos diários e mensais. Isso ajuda a identificar onde é possível economizar.
@@ -21,7 +22,8 @@ Sem um controle visual, era difícil saber onde o dinheiro estava sendo gasto e 
 [Lucro e Estoque](https://github.com/Warvince/repository-WL/blob/main/Painel%203.png)
 ![Painel 3](https://github.com/user-attachments/assets/8a9c5b11-216d-4860-b697-03368e4ddea5)
 
-###🛠️ Problemas Resolvidos com os Dashboards
+🛠️ Problemas Resolvidos com os Dashboards
+
 🔸 Falta de Controle de Estoque
 O controle manual do estoque gerava insegurança sobre quais produtos estavam acabando ou sobrando.
 ✅ Solução: O painel de estoque mostra a quantidade disponível de cada item, evitando faltas ou excessos, e garantindo melhor planejamento nas compras.
@@ -35,6 +37,7 @@ Antes, era trabalhoso entender se o negócio estava realmente dando lucro ou pre
 ![Painel 2](https://github.com/user-attachments/assets/4a0f9df8-6746-4f58-8b3e-7fa2558f92ea)
 
 🛠️ Problemas Resolvidos com os Dashboards
+
 🔸 Falta de Visibilidade sobre as Vendas
 Antes, não havia clareza sobre quanto estava sendo vendido, quais produtos tinham maior saída e quais canais (loja física, iFood, WhatsApp) estavam gerando mais receita.
 ✅ Solução: O painel de vendas permite visualizar o total vendido, a média diária, as vendas por data e por canal, facilitando o acompanhamento do desempenho do negócio.
