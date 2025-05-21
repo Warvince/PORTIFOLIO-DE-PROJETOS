@@ -21,8 +21,8 @@ Sem um controle visual, era difícil saber onde o dinheiro estava sendo gasto e 
 [Lucro e Estoque](https://github.com/Warvince/repository-WL/blob/main/Painel%203.png)
 ![Painel 3](https://github.com/user-attachments/assets/8a9c5b11-216d-4860-b697-03368e4ddea5)
 
-🛠️ Problemas Resolvidos com os Dashboards
-#🔸 Falta de Controle de Estoque
+###🛠️ Problemas Resolvidos com os Dashboards
+🔸 Falta de Controle de Estoque
 O controle manual do estoque gerava insegurança sobre quais produtos estavam acabando ou sobrando.
 ✅ Solução: O painel de estoque mostra a quantidade disponível de cada item, evitando faltas ou excessos, e garantindo melhor planejamento nas compras.
 
