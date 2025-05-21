@@ -7,7 +7,7 @@ Este projeto consiste em um dashboard interativo desenvolvido no Power BI, com o
 ## Visão Geral do Dashboard
 
 ### Página 1 – Controle de Despesas
-[Despesas](Painel 2.png)
+[Despesas](https://github.com/Warvince/repository-WL/blob/main/Painel%201.png)
 
 ### Página 2 – Lucro e Estoque
 [Lucro e Estoque](Painel 3.png)
