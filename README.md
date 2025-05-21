@@ -43,6 +43,7 @@ Este projeto consiste em um dashboard interativo desenvolvido no Power BI, com o
 ## 📁 Acesso ao Arquivo
 
 > Faça o download do arquivo `.pbix` neste repositório para explorar o dashboard completo no Power BI Desktop.
+> [Dashboard Completo](https://github.com/Warvince/repository-WL/blob/main/Controle%20financeiro.pbix)
 
 ---
 
