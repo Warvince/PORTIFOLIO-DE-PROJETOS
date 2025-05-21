@@ -14,6 +14,7 @@ Este projeto consiste em um dashboard interativo desenvolvido no Power BI, com o
 
 🔸 Dificuldade no Controle de Despesas
 Sem um controle visual, era difícil saber onde o dinheiro estava sendo gasto e quais eram os maiores custos do negócio.
+
 ✅ Solução: O dashboard de despesas organiza os gastos por categoria, data e tipo de produto, além de mostrar claramente os custos diários e mensais. Isso ajuda a identificar onde é possível economizar.
 
 
@@ -26,10 +27,12 @@ Sem um controle visual, era difícil saber onde o dinheiro estava sendo gasto e 
 
 🔸 Falta de Controle de Estoque
 O controle manual do estoque gerava insegurança sobre quais produtos estavam acabando ou sobrando.
+
 ✅ Solução: O painel de estoque mostra a quantidade disponível de cada item, evitando faltas ou excessos, e garantindo melhor planejamento nas compras.
 
 🔸 Dificuldade em Calcular Lucro e Custos de Produção
 Antes, era trabalhoso entender se o negócio estava realmente dando lucro ou prejuízo.
+
 ✅ Solução: O dashboard mostra de forma automática o lucro total, o custo de produção e a relação com o estoque e as vendas, trazendo uma visão clara da saúde financeira do negócio.
 
 ### Página 3 – Vendas e Canais
@@ -40,6 +43,7 @@ Antes, era trabalhoso entender se o negócio estava realmente dando lucro ou pre
 
 🔸 Falta de Visibilidade sobre as Vendas
 Antes, não havia clareza sobre quanto estava sendo vendido, quais produtos tinham maior saída e quais canais (loja física, iFood, WhatsApp) estavam gerando mais receita.
+
 ✅ Solução: O painel de vendas permite visualizar o total vendido, a média diária, as vendas por data e por canal, facilitando o acompanhamento do desempenho do negócio.
 
 
