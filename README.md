@@ -4,16 +4,16 @@ Este projeto consiste em um dashboard interativo desenvolvido no Power BI, com o
 
 ---
 
-## 🖼️ Visão Geral do Dashboard
+## Visão Geral do Dashboard
 
 ### Página 1 – Controle de Despesas
-![Despesas](Painel 2.png)
+[Despesas](Painel 2.png)
 
 ### Página 2 – Lucro e Estoque
-![Lucro e Estoque](Painel 3.png)
+[Lucro e Estoque](Painel 3.png)
 
 ### Página 3 – Vendas e Canais
-![Vendas e Canais](Painel 1.png)
+[Vendas e Canais](Painel 1.png)
 
 ---
 
