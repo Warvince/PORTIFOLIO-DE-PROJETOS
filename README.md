@@ -10,10 +10,14 @@ Este projeto consiste em um dashboard interativo desenvolvido no Power BI, com o
 [Despesas](https://github.com/Warvince/repository-WL/blob/main/Painel%202.png)
 
 ### Página 2 – Lucro e Estoque
-[Lucro e Estoque](Painel 3.png)
+[Lucro e Estoque](https://github.com/Warvince/repository-WL/blob/main/Painel%203.png)
 
 ### Página 3 – Vendas e Canais
 [Vendas e Canais](https://github.com/Warvince/repository-WL/blob/main/Painel%201.png)
+
+### Página 4 - Cruzamento de Dados
+
+[Cruzamento de Dados]
 
 ---
 
