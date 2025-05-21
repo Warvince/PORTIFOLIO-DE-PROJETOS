@@ -13,7 +13,7 @@ Este projeto consiste em um dashboard interativo desenvolvido no Power BI, com o
 [Lucro e Estoque](Painel 3.png)
 
 ### Página 3 – Vendas e Canais
-[Vendas e Canais](Painel 1.png)
+[Vendas e Canais](https://github.com/Warvince/repository-WL/blob/main/Painel%201.png)
 
 ---
 
