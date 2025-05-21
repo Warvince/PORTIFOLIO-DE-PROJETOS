@@ -15,9 +15,9 @@ Este projeto consiste em um dashboard interativo desenvolvido no Power BI, com o
 ### Página 3 – Vendas e Canais
 [Vendas e Canais](https://github.com/Warvince/repository-WL/blob/main/Painel%201.png)
 
-### Página 4 - Cruzamento de Dados
+### Página 4 - Modelagem de Dados
 
-[Cruzamento de Dados]
+[Modelagem de Dados](https://github.com/Warvince/repository-WL/blob/main/combina%C3%A7%C3%A3o%20de%20dados.png)
 
 ---
 
