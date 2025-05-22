@@ -23,7 +23,7 @@ Desenvolvi um dashboard no Power BI baseado em planilhas reais de um negócio lo
 
 
 ## Como Usar
-1. Faça o download das planilhas [aqui](link)
+1. Faça o download das planilhas [aqui](https://drive.google.com/drive/folders/1e7UxcpJw3ltvYcUfH-J_j6oTyDQOUli9?usp=sharing)
 2. Abra no Power BI
 3. Atualize as conexões de dados
 4. Navegue pelas páginas do dashboard
