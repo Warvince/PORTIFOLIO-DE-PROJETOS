@@ -4,6 +4,37 @@ Este projeto consiste em um dashboard interativo desenvolvido no Power BI, com o
 
 ---
 
+
+## Problema
+Pequenos negócios sofrem com falta de controle financeiro. Isso afeta a tomada de decisão, causa desperdícios e compromete o crescimento.
+
+## Solução
+Desenvolvi um dashboard no Power BI baseado em planilhas reais de um negócio local (IMPERÍO DO KEBAB). A solução oferece:
+- Visão de receitas e despesas
+- Controle de metas
+- Análise de categorias de gasto
+
+## Ferramentas Utilizadas
+- Power BI
+- Excel
+
+## Visual
+![Painel 2](https://github.com/user-attachments/assets/fc516b5e-870e-4204-8ae9-0a8ee81a953d)
+
+
+## Como Usar
+1. Faça o download das planilhas [aqui](link)
+2. Abra no Power BI
+3. Atualize as conexões de dados
+4. Navegue pelas páginas do dashboard
+
+## Próximos Passos
+- Automatizar ingestão de dados
+- Previsão de vendas com aprendizado de máquina
+
+## Autor
+Wallace Ribeiro – Estudante de Ciência de Dados | [LinkedIn](https://www.linkedin.com/in/wallaceribeiro95)
+
 ## Visão Geral do Dashboard
 
 ### Página 1 – Controle de Despesas
@@ -99,15 +130,6 @@ Durante o desenvolvimento deste projeto, aprimorei habilidades como:
 - Modelagem de dados no Power BI
 - Escrita de medidas com DAX
 - Layout e design visual com foco em clareza de informação
-
----
-
-## 🛠️ Próximos Passos
-
-- Adicionar segmentações por período (mês, semana)
-- Implementar KPIs dinâmicos com filtros
-- Conectar com fontes externas (Excel, banco SQL, etc.)
-- Tornar o dashboard responsivo para publicação online
 
 ---
 
