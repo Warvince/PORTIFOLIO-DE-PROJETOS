@@ -1,68 +1,92 @@
-📊 Painel de Controle Financeiro – Power BI
-Este projeto consiste em um dashboard interativo desenvolvido no Power BI, com o objetivo de acompanhar e analisar as principais estatísticas financeiras de um pequeno negócio, como vendas, despesas, lucro e estoque.
+# 📊 Dashboard de Controle Financeiro – Power BI
 
-Problema
-Pequenos negócios sofrem com falta de controle financeiro. Isso afeta a tomada de decisão, causa desperdício e compromete o crescimento.
+Este projeto consiste em um dashboard interativo desenvolvido no Power BI, com o objetivo de acompanhar e analisar as principais métricas financeiras de um pequeno negócio, como vendas, despesas, lucro e estoque.
 
-Solução
+---
+
+
+## Problema
+Pequenos negócios sofrem com falta de controle financeiro. Isso afeta a tomada de decisão, causa desperdícios e compromete o crescimento.
+
+## Solução
 Desenvolvi um dashboard no Power BI baseado em planilhas reais de um negócio local (IMPERÍO DO KEBAB). A solução oferece:
+- Visão de receitas e despesas
+- Controle de metas
+- Análise de categorias de gasto
 
-Visão de receitas e despesas
-Controle de metas
-Análise de categorias de gasto
-Ferramentas Utilizadas
-Power BI
-Excel
-Visual
-Painel 2
+## Ferramentas Utilizadas
+- Power BI
+- Excel
 
-Como usar
-Faça o download das planilhas aqui
-Abra no Power BI
-Atualizar as conexões de dados
-Navegue pelas páginas do painel
-Próximos Passos
-Automatizar a ingestão de dados
-Previsão de vendas com aprendizado de máquina
-Autor
-Wallace Ribeiro – Estudante de Ciência de Dados | LinkedIn
+## Visual
+![Painel 2](https://github.com/user-attachments/assets/fc516b5e-870e-4204-8ae9-0a8ee81a953d)
 
-Visão Geral do Dashboard
-Página 1 – Controle de Despesas
-Despesas Painel 2
 
-🛠️ Problemas Resolvidos com os Dashboards
+## Como Usar
+1. Faça o download das planilhas [aqui](https://drive.google.com/drive/folders/1e7UxcpJw3ltvYcUfH-J_j6oTyDQOUli9?usp=sharing)
+2. Abra no Power BI
+3. Atualize as conexões de dados
+4. Navegue pelas páginas do dashboard
 
-🔸 Dificuldade no Controle de Despesas Sem um controle visual, era difícil saber onde o dinheiro estava sendo gasto e quais eram os maiores custos do negócio.
+## Próximos Passos
+- Automatizar ingestão de dados
+- Previsão de vendas com aprendizado de máquina
 
-✅ Solução: O painel de despesas organiza os gastos por categoria, dados e tipo de produto, além de mostrar claramente os custos diários e mensais. Isso ajuda a identificar onde é possível economizar.
+## Autor
+Wallace Ribeiro – Estudante de Ciência de Dados | [LinkedIn](https://www.linkedin.com/in/wallaceribeiro95)
 
-Página 2 – Lucro e Estoque
-Lucro e Estoque Painel 3
+## Visão Geral do Dashboard
+
+### Página 1 – Controle de Despesas
+[Despesas](https://github.com/Warvince/repository-WL/blob/main/Painel%202.png)
+![Painel 2](https://github.com/user-attachments/assets/06dd8070-2e4f-42f2-becc-ecf076c5b139)
 
 🛠️ Problemas Resolvidos com os Dashboards
 
-🔸Falta de Controle de Estoque O manual de controle do estoque gerava insegurança sobre quais produtos estavam acabando ou sobrando.
+🔸 Dificuldade no Controle de Despesas
+Sem um controle visual, era difícil saber onde o dinheiro estava sendo gasto e quais eram os maiores custos do negócio.
+
+✅ Solução: O dashboard de despesas organiza os gastos por categoria, data e tipo de produto, além de mostrar claramente os custos diários e mensais. Isso ajuda a identificar onde é possível economizar.
+
+
+
+### Página 2 – Lucro e Estoque
+[Lucro e Estoque](https://github.com/Warvince/repository-WL/blob/main/Painel%203.png)
+![Painel 3](https://github.com/user-attachments/assets/8a9c5b11-216d-4860-b697-03368e4ddea5)
+
+🛠️ Problemas Resolvidos com os Dashboards
+
+🔸 Falta de Controle de Estoque
+O controle manual do estoque gerava insegurança sobre quais produtos estavam acabando ou sobrando.
 
 ✅ Solução: O painel de estoque mostra a quantidade disponível de cada item, evitando faltas ou excessos, e garantindo melhor planejamento nas compras.
 
-🔸 Dificuldade em Calcular Lucro e Custos de Produção Antes, era trabalho entender se o negócio estava realmente dando lucro ou prejuízo.
+🔸 Dificuldade em Calcular Lucro e Custos de Produção
+Antes, era trabalhoso entender se o negócio estava realmente dando lucro ou prejuízo.
 
 ✅ Solução: O dashboard mostra de forma automática o lucro total, o custo de produção e a relação com o estoque e as vendas, trazendo uma visão clara da saúde financeira do negócio.
 
-Página 3 – Vendas e Canais
-Vendas e Canais Painel 2
+### Página 3 – Vendas e Canais
+[Vendas e Canais](https://github.com/Warvince/repository-WL/blob/main/Painel%201.png)
+![Painel 2](https://github.com/user-attachments/assets/4a0f9df8-6746-4f58-8b3e-7fa2558f92ea)
 
 🛠️ Problemas Resolvidos com os Dashboards
 
-🔸 Falta de Visibilidade sobre as Vendas Antes, não havia clareza sobre o quanto estava sendo vendido, quais produtos tinham maior saída e quais canais (loja física, iFood, WhatsApp) estavam gerando mais receita.
+🔸 Falta de Visibilidade sobre as Vendas
+Antes, não havia clareza sobre quanto estava sendo vendido, quais produtos tinham maior saída e quais canais (loja física, iFood, WhatsApp) estavam gerando mais receita.
 
-✅ Solução: O painel de vendas permite visualizar o total vendido, a média diária, como vendas por dados e por canal, facilitando o acompanhamento do desempenho do negócio.
+✅ Solução: O painel de vendas permite visualizar o total vendido, a média diária, as vendas por data e por canal, facilitando o acompanhamento do desempenho do negócio.
 
-Página 4 - Modelagem de Dados
-Modelagem de Dados combinação de dados
 
-🚀 Benefícios Gerados
+### Página 4 - Modelagem de Dados
+
+[Modelagem de Dados](https://github.com/Warvince/repository-WL/blob/main/combina%C3%A7%C3%A3o%20de%20dados.png)
+![combinação de dados](https://github.com/user-attachments/assets/03bd591b-01b3-42fa-89c7-2367b89d01d4)
+
+
+---
+## 🚀 Benefícios Gerados
+
 Tomada de decisão mais rápida e eficiente.
 
 Melhoria no controle financeiro e operacional.
@@ -71,30 +95,51 @@ Facilidade para planejar estratégias de vendas e redução de custos.
 
 Clareza total sobre desempenho, custos, estoque e lucro.
 
-📌 Funcionalidades
-📅 Análise de despesas por dados
-📦 Controle de estoque por produto
-💰 Cálculo de lucro e custo de produção
-🛒 Total de vendas e mídia diária
-📊 Análise de vendas por canal (loja, iFood, WhatsApp)
-📌 Classificação de categorias e itens com maior gasto
-🚀 Tecnologias Utilizadas
-Power BI Desktop
-DAX para criação de medidas personalizadas
-Modelagem de dados simples (relacionamento entre tabelas de vendas, estoque e despesas)
-📁 Acesso ao Arquivo
-Faça o download do arquivo .pbixneste repositório para explorar o dashboard completo no Power BI Desktop. Painel Completo
+---
 
-🧠 Aprendizados
-Durante o desenvolvimento deste projeto, você aprenderá habilidades como:
+## 📌 Funcionalidades
 
-Criação de visualizações eficientes
-Modelagem de dados no Power BI
-Escrita de chaves com DAX
-Layout e design visual com foco em informações claras
-📬 Contato
+- 📅 Análise de despesas por data
+- 📦 Controle de estoque por produto
+- 💰 Cálculo de lucro e custo de produção
+- 🛒 Total de vendas e média diária
+- 📊 Análise de vendas por canal (loja, iFood, WhatsApp)
+- 📌 Classificação de categorias e itens com maior gasto
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- [Power BI Desktop](https://powerbi.microsoft.com/)
+- DAX para criação de medidas personalizadas
+- Modelagem de dados simples (relacionamento entre tabelas de vendas, estoque e despesas)
+
+---
+
+## 📁 Acesso ao Arquivo
+
+> Faça o download do arquivo `.pbix` neste repositório para explorar o dashboard completo no Power BI Desktop.
+> [Dashboard Completo](https://github.com/Warvince/repository-WL/blob/main/Controle%20financeiro.pbix)
+
+---
+
+## 🧠 Aprendizados
+
+Durante o desenvolvimento deste projeto, aprimorei habilidades como:
+- Criação de visualizações eficientes
+- Modelagem de dados no Power BI
+- Escrita de medidas com DAX
+- Layout e design visual com foco em clareza de informação
+
+---
+
+## 📬 Contato
+
 Caso tenha interesse em discutir este projeto ou colaborar, entre em contato:
 
-Seu LinkedIn
-Seu e-mail
+- [Seu LinkedIn](www.linkedin.com/in/wallaceribeiro95)
+- [Seu E-mail](mailto:wallaceribeiro.dspro@gmail.com)
+
+---
+
 ⭐ Se gostou do projeto, deixe uma estrela no repositório!
